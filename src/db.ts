@@ -28,7 +28,7 @@ const relays = [
   "wss://relayable.org/",
   "wss://relay.n057r.club/",
   "wss://nostr-pub.wellorder.net/",
-  "wss://nos.lol/",
+  "wss://pleb.cloud/",
 ];
 const pool = new SimplePool(relays);
 
