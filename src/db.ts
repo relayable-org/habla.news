@@ -25,9 +25,9 @@ const memoize = (fn) => {
 };
 
 const relays = [
-  "wss://relay.snort.social",
-  "wss://relay.damus.io/",
-  "wss://nostr.wine/",
+  "wss://relayable.org/",
+  "wss://relay.n057r.club/",
+  "wss://nostr-pub.wellorder.net/",
   "wss://nos.lol/",
 ];
 const pool = new SimplePool(relays);
